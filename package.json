@@ -1,5 +1,5 @@
 {
-  "name": "lettercrop",
+  "name": "quickcrop",
   "version": "1.0.0",
   "description": "A web application for cropping images to letter size (8.5x11) aspect ratio",
   "main": "server.js",

@@ -1,5 +1,5 @@
 /**
- * Simple HTTP server for the LetterCrop application
+ * Simple HTTP server for the quickcrop application
  */
 const http = require('http');
 const fs = require('fs');

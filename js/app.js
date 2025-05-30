@@ -3,7 +3,7 @@ import { ImageCropper } from './image-cropper.js';
 import { FileManager } from './file-manager.js';
 
 // Main application class
-class LetterCropApp {
+class quickcropApp {
     constructor() {
         // Initialize state
         this.state = {
@@ -279,5 +279,5 @@ class LetterCropApp {
 
 // Initialize the app when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
-    window.app = new LetterCropApp();
+    window.app = new quickcropApp();
 });

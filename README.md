@@ -1,6 +1,6 @@
-# LetterCrop
+# quickcrop
 
-LetterCrop is a web application that allows users to quickly crop images to a letter size (8.5" x 11") aspect ratio. The app provides an intuitive interface for loading, viewing, and cropping images with support for zooming, panning, and keyboard shortcuts.
+quickcrop is a web application that allows users to quickly crop images to a letter size (8.5" x 11") aspect ratio. The app provides an intuitive interface for loading, viewing, and cropping images with support for zooming, panning, and keyboard shortcuts.
 
 ## Features
 
@@ -22,8 +22,8 @@ LetterCrop is a web application that allows users to quickly crop images to a le
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/lettercrop.git
-   cd lettercrop
+   git clone https://github.com/yourusername/quickcrop.git
+   cd quickcrop
    ```
 
 2. Start the server:
@@ -72,7 +72,7 @@ The application consists of three main modules:
 
 ## Browser Compatibility
 
-LetterCrop works best in modern browsers:
+quickcrop works best in modern browsers:
 - Chrome 60+
 - Firefox 60+
 - Safari 12+
