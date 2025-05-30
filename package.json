@@ -1,0 +1,23 @@
+{
+  "name": "lettercrop",
+  "version": "1.0.0",
+  "description": "A web application for cropping images to letter size (8.5x11) aspect ratio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "image",
+    "crop",
+    "letter",
+    "aspect-ratio",
+    "web-app"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {}
+}
